@@ -1,8 +1,0 @@
-
-["Configs for Chamber Clarity Server"]
-	#If true, players must wait for part of the inspect animation before ammo info is shown. If false, ammo info shows instantly.
-	"Require Full Animation" = true
-	#Percentage of the inspect animation that must play before showing ammo info (0-100). Only applies when 'Require Full Animation' is true.
-	#Range: 0 ~ 100
-	"Animation Percentage" = 100
-
