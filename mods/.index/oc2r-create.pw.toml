@@ -1,0 +1,17 @@
+filename = 'oc2rcreate-1.0.3.jar'
+name = 'OC2R: Create'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'OC2R: Create 1.0.3 for Create 6.0.6'
+
+[download]
+hash = '3fcd62738d58da10c9f2c90580c9c51539dbf72a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7585394
+project-id = 1347268

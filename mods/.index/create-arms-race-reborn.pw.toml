@@ -1,0 +1,30 @@
+filename = 'createarmsrace-1.2.0.jar'
+name = 'Create: Arms Race Reborn'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [
+    '1.20.1',
+    '1.20.1',
+    '1.20.2',
+    '1.20.2',
+    '1.20.3',
+    '1.20.3',
+    '1.20.4',
+    '1.20.4',
+    '1.20.5',
+    '1.20.5',
+    '1.20.6',
+    '1.20.6'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.0'
+
+[download]
+hash = 'ec1eb6edb34db54d61eb60c17c8d69734668896151a064209f6f2e394c88b0d07aad2011b24cf232fd007757a586fefb3cf564a528261bfff3e276a444a6f390'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6QkgNmAj/versions/y1cDRwEE/createarmsrace-1.2.0.jar'
+
+[update.modrinth]
+mod-id = '6QkgNmAj'
+version = 'y1cDRwEE'

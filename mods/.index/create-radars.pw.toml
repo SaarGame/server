@@ -1,0 +1,30 @@
+filename = 'Radars 3.5.2-Create 6.0.8 (2).jar'
+name = 'Create: Radars'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [
+    '1.20.1',
+    '1.20.1',
+    '1.20.2',
+    '1.20.2',
+    '1.20.3',
+    '1.20.3',
+    '1.20.4',
+    '1.20.4',
+    '1.20.5',
+    '1.20.5',
+    '1.20.6',
+    '1.20.6'
+]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.3.5'
+
+[download]
+hash = 'a6671748cb996b05cd0e0a5b02e704056b0439afe7271fd25998c95f09a351a45dd9f3ab6ef8be9b39dbc3d59886c25094ee8cb758dcb9eb6927f9045019f160'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/BLu2Yqfq/versions/Om1Qj6QK/Radars 3.5.2-Create 6.0.8 %282%29.jar'
+
+[update.modrinth]
+mod-id = 'BLu2Yqfq'
+version = 'Om1Qj6QK'

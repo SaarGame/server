@@ -1,0 +1,17 @@
+filename = 'CBC Chemical Warfare v0.50.jar'
+name = 'CBC: Chemical Warfare'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.50'
+
+[download]
+hash = 'cc9e98411afd4a67e7615cc2a0432ce5dc4e75b96b2b701c35fa6f071f428cf627b442ffa6bba7168d087cf8c6f72ec19e0e9d5665ada5c2f69d270dca611aae'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/z2zLJOBI/versions/IX4KXU8x/CBC Chemical Warfare v0.50.jar'
+
+[update.modrinth]
+mod-id = 'z2zLJOBI'
+version = 'IX4KXU8x'

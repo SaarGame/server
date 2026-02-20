@@ -1,0 +1,17 @@
+filename = 'powergrid-mc1.20.1-0.5.0-beta.jar'
+name = 'Create: Power Grid'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.5.0-beta'
+
+[download]
+hash = 'bd19cb05501a032fb49611f4039c7fb951d907c8429e10b59b1d46f16247adb56f62ce67a387e7c4113fe3619f45962a23fa001bff6231bffb93b7e5565cb949'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/eWiBLJ9R/versions/CzvItgTg/powergrid-mc1.20.1-0.5.0-beta.jar'
+
+[update.modrinth]
+mod-id = 'eWiBLJ9R'
+version = 'CzvItgTg'

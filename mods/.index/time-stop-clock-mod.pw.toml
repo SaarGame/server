@@ -1,0 +1,17 @@
+filename = 'timeclock-4.2.0-forge-1.20.1.jar'
+name = 'Time Stop Clock'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '4.2.0'
+
+[download]
+hash = '53d40b90b85198c88cdad5531efc1feab20b5854c8b814ba3f43564f16cb62e0cf14d2ea77352c96ff54bb7006345f15db95749aaa98184dc51fc0f26cb7044f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KZOjyOXV/versions/9oEEhDUN/timeclock-4.2.0-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'KZOjyOXV'
+version = '9oEEhDUN'

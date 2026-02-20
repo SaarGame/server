@@ -1,0 +1,17 @@
+filename = 'drivebywire-1.20.1-0.1.0.jar'
+name = 'Drive-By-Wire'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.1.0'
+
+[download]
+hash = 'be09aa07c0b2e4f4506439e57cc49a818552eccddb3ebed82c84e84261f8f8e81d8ebba4573353ac6052f1f6c277d736acb3e5ca5c215c92832ae3baba7b3314'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/I9AkDJzr/versions/BaodQBiU/drivebywire-1.20.1-0.1.0.jar'
+
+[update.modrinth]
+mod-id = 'I9AkDJzr'
+version = 'BaodQBiU'

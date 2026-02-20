@@ -1,0 +1,17 @@
+filename = 'VSChunkLoader-forge-1.20.1-2.0.1.jar'
+name = 'VS ChunkLoader'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.0.1'
+
+[download]
+hash = '7d53b0fee7f048ef9a4c0de3d2d702ce66e60904bc1100b28df22fea142b05a5e97465e163d72342cd758d24e4626d7af9f6e9575b5f5f927f9500d0d2f5e8af'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/V4eP65JX/versions/yrSjCa6p/VSChunkLoader-forge-1.20.1-2.0.1.jar'
+
+[update.modrinth]
+mod-id = 'V4eP65JX'
+version = 'yrSjCa6p'

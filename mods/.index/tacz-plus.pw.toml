@@ -1,0 +1,17 @@
+filename = 'taczplus-1.1.1-forge-1.20.1.jar'
+name = 'TACZ: Plus'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.1'
+
+[download]
+hash = 'b0a1f64825c917b2826e3108b07a33a07c1f59d851e87ac59ff8c241288da921353a8285c78ba3b31f3a8451fad4cae82f60647c8a5aaf8a5fba0f27e30df0e7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/W6j9FmVg/versions/oObFgRBp/taczplus-1.1.1-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'W6j9FmVg'
+version = 'oObFgRBp'
